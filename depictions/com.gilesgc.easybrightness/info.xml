@@ -1,11 +1,11 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>com.gilesgc.easybrightness</id>
+	<name>Easy Brightness</name>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Set a default brightness and revert to it by tapping the CC brightness slider</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
