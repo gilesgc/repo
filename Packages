@@ -15,3 +15,19 @@ Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.easybrightne
 Installed-Size: 420
 Name: EasyBrightness
 
+Package: com.gilesgc.pivot
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.pivot_1.0.0_iphoneos-arm.deb
+Size: 132302
+MD5sum: fe1c63418c67d77a8b58391a26f71f01
+SHA1: 2b81276c03e95bbcadc7b01534069cef5621660c
+SHA256: 5ae0069b317a70c7f7aa8deeb69a876d4d323e38b91d8d043d06627cea374b60
+Section: Tweaks
+Description: Customize the Firefox Focus gradient colors
+Author: gilesgc
+Installed-Size: 1188
+Name: Pivot
+
