@@ -15,7 +15,11 @@
 	<descriptionlist>
 		<description>Customize the Firefox Focus gradient colors</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<image>firefox.PNG</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
