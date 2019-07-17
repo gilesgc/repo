@@ -20,7 +20,7 @@ Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: gilesgc
 Depends: mobilesubstrate
-Filename: debs/com.gilesgc.easybrightness_1.1.0_iphoneos-arm (1).deb
+Filename: debs/com.gilesgc.easybrightness_1.1.0_iphoneos-arm.deb
 Size: 15608
 MD5sum: 1ce5cd5ee7646d9ddf1e4a3615caed5e
 SHA1: df50ac2353011944c48d565aa3bb6d0247026669
