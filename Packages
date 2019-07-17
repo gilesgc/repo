@@ -15,6 +15,23 @@ Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.easybrightne
 Installed-Size: 420
 Name: EasyBrightness
 
+Package: com.gilesgc.easybrightness
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.easybrightness_1.1.0_iphoneos-arm (1).deb
+Size: 15608
+MD5sum: 1ce5cd5ee7646d9ddf1e4a3615caed5e
+SHA1: df50ac2353011944c48d565aa3bb6d0247026669
+SHA256: c37b7034709ce3d1a8ed9ee819347499a0e1f67975bc9c3bfe04850adea13a0c
+Section: Tweaks
+Description: Set a default brightness value and revert back to it by tapping the CC brightness slider
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.easybrightness
+Installed-Size: 420
+Name: EasyBrightness
+
 Package: com.gilesgc.pivot
 Version: 1.0.0
 Architecture: iphoneos-arm
