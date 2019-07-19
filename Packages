@@ -55,13 +55,14 @@ Architecture: iphoneos-arm
 Maintainer: gilesgc
 Depends: mobilesubstrate, me.nepeta.libcolorpicker, com.muirey03.libimagepicker
 Filename: debs/com.gilesgc.youplayer_1.0.0_iphoneos-arm.deb
-Size: 133154
-MD5sum: 17a04e5c107fbc62d7711bfe4818f66f
-SHA1: 18366c9dbf590ee9f8f6f8f88d7cee53ab3a54dc
-SHA256: d40c3d9141788cbaaae772008af173ce079f2b2a6ede1129f1e6623930923245
+Size: 133198
+MD5sum: 6a8eb341112d27f5cdde49f7cc4c6371
+SHA1: bec6dbe2dd1100b5982e3968125c5e1b1a14342c
+SHA256: ebcdec1be5ac1365bde6c4613b9ce3b7d64a3a17c557215960955cd983d6a950
 Section: Tweaks
 Description: Customize the YouTube video player icon and colors
 Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.youplayer
 Installed-Size: 2060
 Name: YouPlayer
 
