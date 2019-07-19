@@ -15,7 +15,12 @@
 	<descriptionlist>
 		<description>Customize the YouTube video player bar</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>Example</description>
+			<image>example.jpeg</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>

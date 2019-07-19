@@ -50,18 +50,18 @@ Installed-Size: 1188
 Name: Pivot
 
 Package: com.gilesgc.youplayer
-Version: 0.0.1-48
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: gilesgc
-Depends: mobilesubstrate, com.muirey03.libimagepicker
-Filename: debs/com.gilesgc.youplayer_0.0.1-48_iphoneos-arm.deb
-Size: 17146
-MD5sum: b3a252a357d1958ca44de3097ae4dabe
-SHA1: faab3af01c98135ad92c6e397754196bb37d8b7f
-SHA256: 3bca7b0ad0503e6f4a0324a9a2487041deae5ab72d5e1c20c4bb4387cdb2b821
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, com.muirey03.libimagepicker
+Filename: debs/com.gilesgc.youplayer_1.0.0_iphoneos-arm.deb
+Size: 133154
+MD5sum: 17a04e5c107fbc62d7711bfe4818f66f
+SHA1: 18366c9dbf590ee9f8f6f8f88d7cee53ab3a54dc
+SHA256: d40c3d9141788cbaaae772008af173ce079f2b2a6ede1129f1e6623930923245
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Customize the YouTube video player icon and colors
 Author: gilesgc
-Installed-Size: 320
+Installed-Size: 2060
 Name: YouPlayer
 
