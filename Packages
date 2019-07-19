@@ -49,3 +49,19 @@ Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.pivot
 Installed-Size: 1188
 Name: Pivot
 
+Package: com.gilesgc.youplayer
+Version: 0.0.1-48
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate, com.muirey03.libimagepicker
+Filename: debs/com.gilesgc.youplayer_0.0.1-48_iphoneos-arm.deb
+Size: 17146
+MD5sum: b3a252a357d1958ca44de3097ae4dabe
+SHA1: faab3af01c98135ad92c6e397754196bb37d8b7f
+SHA256: 3bca7b0ad0503e6f4a0324a9a2487041deae5ab72d5e1c20c4bb4387cdb2b821
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: gilesgc
+Installed-Size: 320
+Name: YouPlayer
+
