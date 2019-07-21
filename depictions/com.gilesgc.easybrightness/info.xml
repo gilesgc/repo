@@ -17,6 +17,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
+		<change>Fix brightness shifts after respring</change>
 		<change>Fix weird brightness behavior and make the slider show its value</change>
 		<change>Initial release</change>
 	</changelog>
