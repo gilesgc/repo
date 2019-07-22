@@ -23,10 +23,6 @@
 
 	bundleid = $.QueryString['p'];
 
-	$.get("viewedTweak.php?p=" + bundleid, function(data) {
-		alert("ok");
-	});
-	
     var contentBlocks = 	{
     	"#packageName" :
 			{"type":"text","source":"package>name"}
