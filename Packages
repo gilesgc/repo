@@ -66,6 +66,23 @@ Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.pivot
 Installed-Size: 1188
 Name: Pivot
 
+Package: com.gilesgc.pivot
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.pivot_1.1.0_iphoneos-arm.deb
+Size: 132402
+MD5sum: 25426f72be2a081fbdb37333f0f9a4bf
+SHA1: 9bca123e9520580aec731383b71e4c3fe009b54b
+SHA256: 750876b175255ce40abbe831d54511edae6226a3a5aa981b977a6181b5fe6370
+Section: Tweaks
+Description: Customize the Firefox Focus gradient colors
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.pivot
+Installed-Size: 1188
+Name: Pivot
+
 Package: com.gilesgc.youplayer
 Version: 1.0.0
 Architecture: iphoneos-arm

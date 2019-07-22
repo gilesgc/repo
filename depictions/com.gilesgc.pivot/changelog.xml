@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.1.0</version>
+		<change>Make default colors the actual defaults instead of black</change>
+	</changes>
+	<changes>
 		<version>1.0.0</version>
 		<change>Initial release</change>
 	</changes>
