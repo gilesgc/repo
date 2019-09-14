@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>No longer broken on languages other than English</change>
+	</changes>
+	<changes>
 		<version>1.0.0</version>
 		<change>Initial release</change>
 	</changes>

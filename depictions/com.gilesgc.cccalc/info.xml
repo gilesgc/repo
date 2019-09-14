@@ -1,7 +1,7 @@
 <package>
 	<id>com.gilesgc.cccalc</id>
 	<name>CCCalc</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>No longer broken on languages other than English</change>
 	</changelog>
 	<links></links>
 </package>
