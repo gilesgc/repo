@@ -1,0 +1,28 @@
+<package>
+	<id>com.gilesgc.cccalc</id>
+	<name>CCCalc</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Turn your calculator module into a real calculator</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot</description>
+			<image>module.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
