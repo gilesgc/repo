@@ -161,15 +161,15 @@ Architecture: iphoneos-arm
 Maintainer: gilesgc
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
 Filename: debs/com.gilesgc.vibe_1.0.0_iphoneos-arm.deb
-Size: 37728
-MD5sum: 017f15dbcb8bbda91f00b1d841b58411
-SHA1: d1850d23a67df5d11af82ba2f04ddcdf08310aef
-SHA256: 071d15da1eacd8d91d664a80d0fb40fc02cc699564d0b6ded6048cab478ce8bd
+Size: 37752
+MD5sum: 0038c9be13f3de655de2f1445df2c8e5
+SHA1: 28198105a4053cb86ac44ae57b471471eeea23ae
+SHA256: d2749a4e6638685ea11ded4dc65b56b96e319e73dafc0ab02ce54fff8ae9f318
 Section: Tweaks
 Description: Give any app notification a custom vibration pattern
 Author: gilesgc
 Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.vibe
-Icon: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.vibe/vibe-icon.png
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.vibe/vibe-icon.png
 Installed-Size: 440
 Name: Vibe
 
