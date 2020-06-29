@@ -121,6 +121,24 @@ Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.easybrightne
 Installed-Size: 420
 Name: EasyBrightness
 
+Package: com.gilesgc.freemote
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.freemote_1.0.0_iphoneos-arm.deb
+Size: 19462
+MD5sum: be49e0da62c87626ff3513d70004c2d5
+SHA1: 3edbbdb8ff5a9a10c84bc9ae5cd33a8e1a057f7b
+SHA256: 389a9f256afb942b88de9b7c8b9f74770d4d2cbc1c555873d2796416cf4c2234
+Section: Tweaks
+Description: Bring BTTV emotes to the iOS Twitch app. PogU.
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.freemote
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.freemote/freemote-icon.png
+Installed-Size: 200
+Name: Freemote
+
 Package: com.gilesgc.pivot
 Version: 1.0.0
 Architecture: iphoneos-arm

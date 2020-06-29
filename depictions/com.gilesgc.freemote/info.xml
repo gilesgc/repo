@@ -1,0 +1,28 @@
+<package>
+	<id>com.gilesgc.freemote</id>
+	<name>Freemote</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Bring BTTV emotes to the Twitch app. PogU.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot</description>
+			<image>screenshot.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
