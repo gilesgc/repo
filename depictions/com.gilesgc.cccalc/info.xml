@@ -1,10 +1,10 @@
 <package>
 	<id>com.gilesgc.cccalc</id>
 	<name>CCCalc</name>
-	<version>1.1.2</version>
+	<version>1.2.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.3</maxiOS>
+			<maxiOS>13.5.1</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Turn your calculator module into a real calculator</description>
+		<description>Turn your control center's calculator module into a real, working calculator</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>iOS 13 support</change>
+		<change>Added order of operations, new functions, landscape support, and bug fixes</change>
 	</changelog>
 	<links></links>
 </package>

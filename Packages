@@ -70,6 +70,24 @@ Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.p
 Installed-Size: 260
 Name: CCCalc
 
+Package: com.gilesgc.cccalc
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: gilesgc
+Depends: mobilesubstrate
+Filename: debs/com.gilesgc.cccalc_1.2.0_iphoneos-arm.deb
+Size: 90612
+MD5sum: 45b23130dca23b5fc2b6ebc4501ef502
+SHA1: 162178f77f69c505766c73828fe4cdbbc405487e
+SHA256: 3797349537b203bf174d5b17fe04612cea078fec3653e80e0c026d915ad8ac17
+Section: Tweaks
+Description: Turn your control center's calculator module into a real, working calculator
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Installed-Size: 428
+Name: CCCalc
+
 Package: com.gilesgc.easybrightness
 Version: 1.0.0
 Architecture: iphoneos-arm
