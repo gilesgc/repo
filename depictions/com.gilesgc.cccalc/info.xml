@@ -1,10 +1,10 @@
 <package>
 	<id>com.gilesgc.cccalc</id>
 	<name>CCCalc</name>
-	<version>1.1.2</version>
+	<version>1.2.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.3</maxiOS>
+			<maxiOS>13.6</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>iOS 13 support</change>
+		<change>Added order of operations, 18 new functions, landscape support, and bug fixes.</change>
 	</changelog>
 	<links></links>
 </package>
